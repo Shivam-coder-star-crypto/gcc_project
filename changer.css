@@ -1,0 +1,24 @@
+.buttons {
+    display: inline-block; /* Change from span's default inline to block or inline-block */
+    width: 10rem; /* Set width */
+    height: 10rem; /* Set height */
+    margin: 10px; /* Optional: add space between buttons */
+    cursor: pointer;
+    border: 1px solid black; /* Change cursor to pointer to indicate interactivity */
+}
+
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
